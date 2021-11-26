@@ -1,0 +1,243 @@
+/*common css start*/
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #0F2656;
+}
+/*common css end*/
+
+/*header start*/
+header{
+	background-color: black;
+    margin: 0;
+    padding: 10px 0;
+}
+.container {
+	margin: 0 auto;
+	width: 90%;
+	overflow: hidden;
+
+}
+
+.logo {
+	width: 5%;
+	float: left;
+
+}
+.logo img{
+	width: 100%;
+}
+
+.manu {
+    width: 60%;
+    float: right;
+}
+.manu ul{
+	float: right;
+}
+.manu ul li{
+	list-style: none;
+	float: left;
+}
+.manu ul li a{
+    margin: 0px 20px;
+    display: inline-block;
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #D62326;
+    text-decoration: none;
+
+}
+.menu ul li:last-child a{
+	margin-right: 0;
+}
+
+.b_banner{
+	
+}
+
+.b_content {
+	margin: 0 auto;
+	padding: 150px 0;
+	width: 40%;
+	text-align: center;
+	line-height: 40px;
+}
+.b_content h1{
+	margin: 0;
+	color: white;
+	font-size: 65px;
+	font-weight: 700;
+	letter-spacing: 2px;
+}
+.b_content h2{
+	color: white;
+	letter-spacing: 5px;
+	word-spacing: 5px;
+	font-weight: 100;
+}
+button{
+	margin: 25px 0;
+	border: 2px solid #F8005E;
+	border-radius: 30px;
+	font-size: 15px;
+	padding: 20px 25px;
+	background-color: #F8005E;
+	color: white;
+	cursor: pointer;
+
+}
+/*header end*/
+/*banner start*/
+
+.banner {
+	padding: 120px 0;
+}
+
+.a_content {
+    width: 35%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.a_content h1{
+	font-size: 30px;
+	font-weight: 200;
+	letter-spacing: 5px;
+}
+.a_content p{
+	padding: 10px 0 40px;
+	color:  #C0C0C0;
+	line-height: 40px;
+}
+
+.services {
+	margin: 0 auto;
+	padding: 60px 0;
+	width: 100%;
+	
+}
+.s_content{
+    width: 75%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.service1{
+
+	width: 25%;
+	float: left;
+    text-align: center;
+}
+
+.service2{
+	margin: 0 130px;
+	width: 25%;
+	float: left;
+    text-align: center;
+}
+
+.service3{
+	width: 25%;
+	float: left;
+	text-align: center;
+}
+h3{
+	margin: 40px 0;
+	font-size: 16px;
+	font-weight: 550;
+}
+h4{
+	color:  #C0C0C0;
+	font-size: 16px;
+	font-weight: 400;
+}
+.service2 h4{
+	margin: 28px 0 ;
+}
+.service3 h4{
+	margin: 28px 0 ;
+}
+
+
+.banner1 {
+	text-align: center;
+	margin-bottom: 50px;
+    padding-top: 100px;
+    font-size: 10px;
+    font-weight: 20;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #000000;
+	
+}
+.banner h1{
+	font-size: 10px;
+	font-weight: 200;
+	text-align: center;
+	letter-spacing: 5px;
+}
+.banner p{
+	margin: 60px 0;
+	text-align: center;
+	color: #C0C0C0;
+
+}
+.imgrow1{
+	margin: 30px auto;
+	width: 90%;
+	overflow: hidden;
+	
+}
+.img1 {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 100%;
+    float: left;
+
+}
+.img1 img{
+    width: 100%;
+}
+
+/*banner end*/
+
+/*footer start*/
+footer{
+	padding: 30px;
+	background-color: black;
+	font-size: 12px;
+	color: white;
+	text-align: center;
+	
+}
+.contact{
+
+    padding-top: 500px;
+    padding-bottom: 300px;
+
+}
+.email{
+	/*border: 1px solid;*/
+	margin: 0 auto;
+	width: 20%;
+	text-align: center;
+
+}
+
+.email h1{
+    font-size: 30px;
+	font-weight: 200;
+	letter-spacing: 5px;
+}
+.img2{
+	margin-left: 580px;
+    margin-right: 10px;
+    width: 100%;
+    float: center;
+}
+
+/*footer end*/

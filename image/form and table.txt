@@ -1,0 +1,80 @@
+
+Overviews Landings Pages Apps Docs 
+
+It's time to amplify your online business
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
+sed do eiusmod tempor incididunt ut labore et dolors magna aliqus. Ut enim ad minim veniam.
+
+3k+
+Excepteur sint occaecat cupidatet non proident, sunt in culpa qui official deserunt mollit
+anim id est laborum.
+
+Successfully completed projects and ideas
+
+Unleash you creativity 
+Duis aunts irure dolor in culps qui officila deserunt mollit anim id est laborum.
+
+succesfully comleted projects and ideas
+
+Unleash you creativity
+Duis aunt irure dolor in reprehenderit in voluptate velit esse cilium dolore eu fugiat nulla
+pariatur.
+
+;LEDP SHER PUR. All right Reserved 2020
+
+
+
+
+
+
+
+
+
+
+web design - responsive web degin - fs
+html css js jq bootstrap
+
+img to html
+psd to html
+url to html
+pdf / text / doc to html
+sketch / wirefrme / layout to html
+subject
+figma / xd / indesign to html
+
+website redesign
+bug fix
+
+
+img to html
+    section define
+    layout define
+    asset gather 
+        logo
+        image
+        icon
+        font
+        text
+
+     code comment
+     semantic markup
+     common formats
+     re-useable
+     code hei--
+          margin:
+          width
+          height
+          font-familly
+          font-size
+          font-weight
+          color
+      
+      seo
+      speed opt
+      cross browser support
+      cross platfrom
+      html validation
+      bug free
+      ui ux
+
